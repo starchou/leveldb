@@ -13,7 +13,7 @@ import (
 	"io"
 	"sort"
 
-	"github.com/golang/leveldb/db"
+	"github.com/starchou/leveldb/db"
 )
 
 // TODO: describe the MANIFEST file format, independently of the C++ project.

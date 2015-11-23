@@ -12,9 +12,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/golang/leveldb/db"
-	"github.com/golang/leveldb/memfs"
-	"github.com/golang/leveldb/table"
+	"github.com/starchou/leveldb/db"
+	"github.com/starchou/leveldb/memfs"
+	"github.com/starchou/leveldb/table"
 )
 
 type tableCacheTestFile struct {

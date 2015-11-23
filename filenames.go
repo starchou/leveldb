@@ -11,7 +11,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/golang/leveldb/db"
+	"github.com/starchou/leveldb/db"
 )
 
 type fileType int

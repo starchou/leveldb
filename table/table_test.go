@@ -15,8 +15,8 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/golang/leveldb/db"
-	"github.com/golang/leveldb/memfs"
+	"github.com/starchou/leveldb/db"
+	"github.com/starchou/leveldb/memfs"
 )
 
 var wordCount = map[string]string{}

@@ -7,8 +7,8 @@ package leveldb
 import (
 	"fmt"
 
-	"github.com/golang/leveldb/db"
-	"github.com/golang/leveldb/table"
+	"github.com/starchou/leveldb/db"
+	"github.com/starchou/leveldb/table"
 )
 
 const (

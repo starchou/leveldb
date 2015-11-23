@@ -12,8 +12,8 @@ import (
 	"fmt"
 	"io"
 
-	"github.com/golang/leveldb/crc"
-	"github.com/golang/leveldb/db"
+	"github.com/starchou/leveldb/crc"
+	"github.com/starchou/leveldb/db"
 	"github.com/golang/snappy"
 )
 

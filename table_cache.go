@@ -8,8 +8,8 @@ import (
 	"os"
 	"sync"
 
-	"github.com/golang/leveldb/db"
-	"github.com/golang/leveldb/table"
+	"github.com/starchou/leveldb/db"
+	"github.com/starchou/leveldb/table"
 )
 
 type tableCache struct {

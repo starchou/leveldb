@@ -8,8 +8,8 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/golang/leveldb/db"
-	"github.com/golang/leveldb/table"
+	"github.com/starchou/leveldb/db"
+	"github.com/starchou/leveldb/table"
 )
 
 var (

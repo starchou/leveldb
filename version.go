@@ -8,7 +8,7 @@ import (
 	"fmt"
 	"sort"
 
-	"github.com/golang/leveldb/db"
+	"github.com/starchou/leveldb/db"
 )
 
 // fileMetadata holds the metadata for an on-disk table.

@@ -13,7 +13,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/golang/leveldb/record"
+	"github.com/starchou/leveldb/record"
 )
 
 func checkRoundTrip(e0 versionEdit) error {

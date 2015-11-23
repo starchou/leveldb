@@ -5,7 +5,7 @@
 // Package leveldb provides an ordered key/value store.
 //
 // BUG: This package is incomplete.
-package leveldb // import "github.com/golang/leveldb"
+package leveldb // import "github.com/starchou/leveldb"
 
 import (
 	"bytes"
@@ -18,10 +18,10 @@ import (
 	"sync"
 	"time"
 
-	"github.com/golang/leveldb/db"
-	"github.com/golang/leveldb/memdb"
-	"github.com/golang/leveldb/record"
-	"github.com/golang/leveldb/table"
+	"github.com/starchou/leveldb/db"
+	"github.com/starchou/leveldb/memdb"
+	"github.com/starchou/leveldb/record"
+	"github.com/starchou/leveldb/table"
 )
 
 const (
